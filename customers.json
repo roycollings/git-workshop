@@ -1,0 +1,14 @@
+[
+    {
+        "name": "John Smith",
+        "dob": "01/01/1990"
+    },
+    {
+        "name": "Wilma Smith",
+        "dob": "01/02/1984"
+    },
+    {
+        "name": "John Bobson",
+        "dob": "13/01/1961"
+    }
+]

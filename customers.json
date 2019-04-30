@@ -1,14 +1,17 @@
 [
     {
         "name": "John Smith",
-        "dob": "01/01/1990"
+        "dob": "01/01/1990",
+        "address": "1 John Lane"
     },
     {
         "name": "Wilma Smith",
-        "dob": "01/02/1984"
+        "dob": "01/02/1984",
+        "address": "1 Wilma Lane"
     },
     {
         "name": "John Bobson",
-        "dob": "13/01/1961"
+        "dob": "13/01/1961",
+        "address": "1 Bobson Lane"
     }
 ]
